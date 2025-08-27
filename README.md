@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mattie Barnes
+# Hello 👋, I'm Mattie Barnes
 ## About Me
 
 - 🏦 I'm currently working for a state college in Nebraska teaching computer programming
